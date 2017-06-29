@@ -1,0 +1,6 @@
+classes= 20
+train  = 2017_train.txt
+valid  = 2017_test.txt
+names = data/invoice.names
+backup = backup
+
