@@ -2,7 +2,7 @@
 /.idea
 *.o
 /obj
-/Makefile
+#/Makefile
 #/invoice/config/
 /Invoicedevkit/Invoice2017/Annotations2
 /Invoicedevkit/Invoice2017/JPEGImages_rect/

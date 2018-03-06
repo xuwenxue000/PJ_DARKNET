@@ -41,6 +41,6 @@ Quick Start
 - 批量检测命令:
     - ./darknet detector test_batch cfg/invoice.data cfg/yolo-invoice.cfg backup/yolo-invoice.backup predict_list.txt
     - predict_list.txt里面列出了所有要识别的文件列表
-- 源darknet网址
+- 源darknet网址./
     https://pjreddie.com/darknet/
         
