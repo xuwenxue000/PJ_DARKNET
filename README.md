@@ -30,7 +30,7 @@ Quick Start
     - ./darknet
     
 - 访问
-    - http://localhost:8088/invoice?/Users/william/PycharmProjects/darknet_cp/00000001
+    - http://localhost:8088/dk?/Users/william/PycharmProjects/darknet_cp/00000001
     - 会返回对应的json数据,标识每个识别出来的区域的坐标
  
 # Other:
